@@ -13,3 +13,23 @@
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Chinmay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chinmayawade&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Chinmay's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayawade" />
+
+</details>
+
+
+
+[linkedin]: https://linkedin.com/in/chinmayawade
